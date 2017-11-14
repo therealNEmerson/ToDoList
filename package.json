@@ -1,0 +1,29 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "Check-off task list",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "ng test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therealNEmerson/ToDoList.git"
+  },
+  "keywords": [
+    "check-off",
+    "task",
+    "checkbox"
+  ],
+  "author": "Nathan Emerson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therealNEmerson/ToDoList/issues"
+  },
+  "homepage": "https://github.com/therealNEmerson/ToDoList#readme"
+}
